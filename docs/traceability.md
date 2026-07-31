@@ -8,12 +8,12 @@
 
 | Official rule | Evidence in this repository | Verification before submission |
 |---|---|---|
-| Individual contribution is evaluated | Student ownership note and learning guide | Student reviews each file and owns final commits |
+| Individual contribution is evaluated | Ownership note and learning guide | Reviews each file and owns final commits |
 | Technical implementation | Express API, SQLite, React UI, tests | Run `npm test` and `npm run build` |
 | Visual design and UI quality | Responsive CSS and three-screen wireframe | Review desktop and mobile states |
 | UX and usability | User flow, labels, feedback, empty states, and accessibility | Complete manual checklist |
 | Third-party libraries are allowed | Dependencies and attribution file | Keep lockfile and credits |
-| Student explains all details | Simple architecture and code walkthrough | Rehearse without reading |
+| Explains all details | Simple architecture and code walkthrough | Rehearse without reading |
 | Non-core features may be simulated | External notifications are explicitly excluded | State this in the demo |
 | Core features must work | FR-01 to FR-09 and automated tests | Demonstrate the real API |
 | Public repository | Repository-ready project structure | Publish after personal review |
