@@ -13,7 +13,7 @@
 | 3. Build API | Authentication, movement transaction, queries, and alerts | Core API tests pass. |
 | 4. Build UI | Inventory, product, alerts, and simulator routes | The API can be demonstrated without Postman. |
 | 5. Refine | Responsive states, errors, README, and attributions | A fresh install is documented. |
-| 6. Rehearse | Reset data and record the English demo | Two practice runs finish below 5:40. |
+| 6. Rehearse | Reset data and record the English demo | Practice runs finish below 6:00. |
 
 ## Priority order
 
