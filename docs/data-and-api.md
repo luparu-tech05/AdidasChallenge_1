@@ -1,3 +1,7 @@
+[← README](/README.md) | [← Architecture](architecture.md) | **Data Model and API** | [UX Design →](ux-design.md)
+
+---
+
 # Data Model and API
 
 ## Data model
@@ -167,3 +171,8 @@ endpoint is intentionally small for the demonstration.
 Three fictional stores and three fictional product variants are inserted when
 the database is empty. The reset command recreates exactly the same state, which
 makes the live demonstration repeatable.
+
+
+---
+
+[? README](/README.md) | [? Architecture](architecture.md) | **Data Model and API** | [UX Design ?](ux-design.md)

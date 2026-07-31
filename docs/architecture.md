@@ -1,3 +1,7 @@
+[← README](/README.md) | [← Requirements](requirements.md) | **Architecture and Routing** | [Data Model and API →](data-and-api.md)
+
+---
+
 # Architecture and Routing
 
 ## The architecture in one sentence
@@ -162,3 +166,8 @@ If the fictional network became real and global, the next steps would be
 PostgreSQL, a managed identity provider, an outbox for reliable events,
 observability, rate limiting, and separate read models. They are described only
 as an evolution path and are not presented as implemented features.
+
+
+---
+
+[? README](/README.md) | [? Requirements](requirements.md) | **Architecture and Routing** | [Data Model and API ?](data-and-api.md)

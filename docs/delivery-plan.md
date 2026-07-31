@@ -1,3 +1,7 @@
+[← README](/README.md) | [← UX Design](ux-design.md) | **Delivery, Testing and Security** | [Traceability →](traceability.md)
+
+---
+
 # Delivery, Testing, and Security
 
 ## Phased delivery
@@ -101,3 +105,8 @@ evaluator reproduce the exercise locally.
 - All repository documentation is in English.
 - The presentation script covers all mandatory topics in six minutes.
 - The student has reviewed the work and can explain each core decision.
+
+
+---
+
+[? README](/README.md) | [? UX Design](ux-design.md) | **Delivery, Testing and Security** | [Traceability ?](traceability.md)

@@ -1,3 +1,7 @@
+[← README](/README.md) | **Requirements and Scope** | [Architecture →](architecture.md)
+
+---
+
 # Requirements and Scope
 
 ## Problem statement
@@ -94,3 +98,8 @@ balance, and derives the network total from all store balances.
 - The six-minute demo covers the required presentation topics.
 - The student can explain the request flow, transaction, idempotency rule, and
   one technology tradeoff in her own words.
+
+
+---
+
+[? README](/README.md) | **Requirements and Scope** | [Architecture ?](architecture.md)

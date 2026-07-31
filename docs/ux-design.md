@@ -1,3 +1,7 @@
+[← README](/README.md) | [← Data Model and API](data-and-api.md) | **UX Design** | [Delivery Plan →](delivery-plan.md)
+
+---
+
 # UX Design
 
 ## Experience goal
@@ -92,3 +96,8 @@ The editable three-screen board is
 [PNG preview](../design/wireframes.png). It maps directly to the three React
 routes and deliberately remains a low-fidelity artifact so the design reasoning
 is visible.
+
+
+---
+
+[? README](/README.md) | [? Data Model and API](data-and-api.md) | **UX Design** | [Delivery Plan ?](delivery-plan.md)
