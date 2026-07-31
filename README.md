@@ -1,4 +1,4 @@
-# AdidasChallenge_1
+# First Adidas Challenge
 Store-to-Store Inventory Synchronization System
 
 Autor: Lucero Patricia Rueda Galván
