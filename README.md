@@ -3,6 +3,7 @@ Store-to-Store Inventory Synchronization System
 
 - Autor: Lucero Patricia Rueda Galván
 - Email: luceparu05@gmail.com
+- [Explaining the Project – English Version](https://youtube.com)
 
 This folder contains the complete API,  React demonstration interface and Documentation.
 
@@ -135,7 +136,6 @@ code/
 - [Data model and API](/docs/data-and-api.md)
 - [UX design](/docs/ux-design.md)
 - [Delivery, testing, and security](/docs/delivery-plan.md)
-- [Six-minute English demo](/docs/demo-script.md)
 - [Rules traceability](/docs/traceability.md)
 - [Editable wireframes](/design/wireframes.svg) and [PNG preview](/design/wireframes.png)
 
