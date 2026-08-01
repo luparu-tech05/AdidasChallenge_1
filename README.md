@@ -3,7 +3,7 @@ Store-to-Store Inventory Synchronization System
 
 - Autor: Lucero Patricia Rueda Galván
 - Email: luceparu05@gmail.com
-- <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">Explaining the Project – English Version</a>
+- <a href="[https://youtube.com](https://youtu.be/4Pz5OfSdmJg)" target="_blank" rel="noopener noreferrer">Explaining the Project – English Version</a>
 
 This folder contains the complete API,  React demonstration interface and Documentation.
 
